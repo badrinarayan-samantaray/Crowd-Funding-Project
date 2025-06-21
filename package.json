@@ -1,0 +1,21 @@
+{
+  "name": "crowd-funding-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^5.2.0",
+    "ethereum-waffle": "^4.0.10",
+    "hardhat": "^2.24.0"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "dotenv": "^16.5.0"
+  }
+}
